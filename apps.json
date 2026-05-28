@@ -17,6 +17,15 @@
         {
           "version": "2.8.0",
           "buildVersion": "2",
+          "date": "2026-05-28T23:02:16Z",
+          "localizedDescription": "feat(statistics): 统一颜色规范，新增统计模块与格式化工具  新增通用货币格式化工具`formatMoney`，统一金额显示逻辑 新增统计模块核心文件与业务组件，搭建统计页基础架构 全量替换项目内分散的硬编码色值为`AppColors`全局统一常量 重构`MainShell`，为统计页传递所需的provider参数 优化添加记录页面的返回逻辑与保存状态追踪 新增统计模块相关的项目规范与实现计划文档  ",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14630494,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.8.0",
+          "buildVersion": "2",
           "date": "2026-05-28T16:27:48Z",
           "localizedDescription": "chore: 完善项目文档与基础配置，重构CI自动发布流程  - 新增AGENTS.md项目开发规范文档，涵盖设计系统、组件使用、用户反馈等开发规则 - 新增scripts/apps.template.json应用分发源模板配置文件 - 重构codemagic.yaml工作流，实现自动打包IPA、发布至GitHub Releases及更新gh-pages软件源的自动化流程 - 重写README.md，替换默认Flutter入门文档，补充完整的项目定位、核心功能与开发指南  ",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
