@@ -15,6 +15,15 @@
       "tintColor": "1F2E5C",
       "versions": [
         {
+          "version": "2.9.0",
+          "buildVersion": "3",
+          "date": "2026-06-01T22:59:17Z",
+          "localizedDescription": "chore(app, changelog): 发布v2.9.0版本并更新变更日志  更新pubspec.yaml与changelog.dart中的版本常量，补充本次版本的完整变更日志条目，涵盖统计页新增功能、导航栏样式优化及千条以上账目加载不全的修复  ",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14653304,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.8.0",
           "buildVersion": "2",
           "date": "2026-05-28T23:02:16Z",
