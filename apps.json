@@ -17,6 +17,15 @@
         {
           "version": "2.9.0",
           "buildVersion": "3",
+          "date": "2026-06-02T22:21:44Z",
+          "localizedDescription": "feat(设置&UI): 添加金额隐藏隐私功能，优化全局组件样式  - 新增本地偏好设置，支持隐藏/显示账单金额并保存状态 - 在首页统计行添加眼睛按钮，快速切换金额隐私状态 - 重构AnimatedMoney组件，新增obscured参数实现金额隐藏为****** - 为统计、债务页面的页面标题启用居中对齐 - 全局重构Toast组件，调整布局、阴影、圆角与文字样式 - 优化确认弹窗组件，适配深色模式并修复按钮�",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14642830,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.9.0",
+          "buildVersion": "3",
           "date": "2026-06-02T20:18:04Z",
           "localizedDescription": "refactor(ui): 重构页面导航组件并优化全局UI布局细节  重构AppPageHeader组件，新增滚动联动的毛玻璃动态导航效果，支持绑定滚动控制器自动调整背景透明度和模糊度。 重构个人页面的滚动布局结构，移除冗余的SliverPersistentHeaderDelegate实现，简化代码逻辑。 移除 instruction、statistics、debts 页面的顶部导航副标题，精简导航栏内容。 调整多个UI组件的间距、卡片尺寸与字体大小，优�",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
