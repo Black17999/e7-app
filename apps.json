@@ -17,6 +17,15 @@
         {
           "version": "2.9.0",
           "buildVersion": "3",
+          "date": "2026-06-02T00:45:27Z",
+          "localizedDescription": "refactor: 优化多页面UI与交互细节  - 修正AI提供商OpenAI Chat的显示标签文本 - 重构顶部导航栏间距适配逻辑，修复iOS/Android平台顶部留白问题 - 升级E7BrandBlock组件，支持展示用户头像并点击跳转到个人页面 - 重构更新日志、AI设置页面的UI结构，统一使用AppPageHeader与渐变背景风格 - 优化债务页面搜索栏的动画与样式，调整债务分享的筛选规则 - 完善认证模块的头像加载与清空逻辑�",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14632885,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.9.0",
+          "buildVersion": "3",
           "date": "2026-06-01T22:59:17Z",
           "localizedDescription": "chore(app, changelog): 发布v2.9.0版本并更新变更日志  更新pubspec.yaml与changelog.dart中的版本常量，补充本次版本的完整变更日志条目，涵盖统计页新增功能、导航栏样式优化及千条以上账目加载不全的修复  ",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
