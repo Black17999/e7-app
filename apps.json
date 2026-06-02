@@ -17,6 +17,15 @@
         {
           "version": "2.9.0",
           "buildVersion": "3",
+          "date": "2026-06-02T09:07:17Z",
+          "localizedDescription": "feat(theme, ui, docs): 新增主题规范与通用组件，完善文档与使用指引  - 新增全局卡片背景色常量，重构GlassCard默认使用主题色并移除硬编码背景色 - 新增通用下拉选择组件AppDropdownField，重构AI设置页面的下拉选择逻辑 - 新增底部操作栏高度常量，统一替换页面内硬编码的导航高度 - 新增APP使用说明页面并添加到个人中心菜单 - 更新文档规范，补充组件使用规则与标准页面模板  ",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14648999,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.9.0",
+          "buildVersion": "3",
           "date": "2026-06-02T00:45:27Z",
           "localizedDescription": "refactor: 优化多页面UI与交互细节  - 修正AI提供商OpenAI Chat的显示标签文本 - 重构顶部导航栏间距适配逻辑，修复iOS/Android平台顶部留白问题 - 升级E7BrandBlock组件，支持展示用户头像并点击跳转到个人页面 - 重构更新日志、AI设置页面的UI结构，统一使用AppPageHeader与渐变背景风格 - 优化债务页面搜索栏的动画与样式，调整债务分享的筛选规则 - 完善认证模块的头像加载与清空逻辑�",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
