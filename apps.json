@@ -17,6 +17,15 @@
         {
           "version": "2.9.0",
           "buildVersion": "3",
+          "date": "2026-06-03T18:00:04Z",
+          "localizedDescription": "feat: 新增全屏头像查看, 优化裁剪UI, 修复记账页键盘跳动, 配置iOS多语言  - 为个人主页头像添加点击交互，触发震动反馈并通过Hero动画打开全屏预览页 - 优化安卓和iOS端的头像裁剪界面，使用深色主题、隐藏多余控件，贴合微信风格的使用体验 - 重构记账添加页面布局，禁用自动键盘适配避免页面抖动，优化底部键盘面板的展示逻辑 - 更新iOS项目配置，添加中文和英文作为支�",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14660698,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.9.0",
+          "buildVersion": "3",
           "date": "2026-06-02T22:21:44Z",
           "localizedDescription": "feat(设置&UI): 添加金额隐藏隐私功能，优化全局组件样式  - 新增本地偏好设置，支持隐藏/显示账单金额并保存状态 - 在首页统计行添加眼睛按钮，快速切换金额隐私状态 - 重构AnimatedMoney组件，新增obscured参数实现金额隐藏为****** - 为统计、债务页面的页面标题启用居中对齐 - 全局重构Toast组件，调整布局、阴影、圆角与文字样式 - 优化确认弹窗组件，适配深色模式并修复按钮�",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
