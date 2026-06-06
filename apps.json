@@ -17,6 +17,15 @@
         {
           "version": "2.9.0",
           "buildVersion": "3",
+          "date": "2026-06-06T23:11:17Z",
+          "localizedDescription": "feat(debts): 添加入账每笔债务的日期追踪与展示功能  - 新增entry_dates_util工具类，实现日期数组的解析、对齐、序列化逻辑，配套2700+行单元测试 - 扩展Debt债务模型，新增entryDates字段存储每笔交易的UTC日期，兼容旧数据自动回退到创建时间 - 重构DebtAvatar组件，简化图片加载的代码实现 - 完善DebtsProvider的日期数组维护逻辑，新增/编辑债务时自动对齐每笔日期，仅在计算表达式变�",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14806444,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.9.0",
+          "buildVersion": "3",
           "date": "2026-06-03T23:34:54Z",
           "localizedDescription": "feat(ui&animation&perf): 替换内置图标为自定义资产，优化动画与UI样式  新增收入、支出、钱包三个自定义分类图标资源 替换全站多处原生图标为自定义资产图标，统一视觉样式 优化AnimatedMoney数字动画组件，新增隐藏转显示的平滑滚动动画 修复记录页面空状态动画无法重播的问题，替换专属Lottie动画资源 重构添加记录页面的键盘弹出逻辑，提前缓存静态Widget避免逐帧重建，消除�",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
