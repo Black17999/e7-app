@@ -17,6 +17,15 @@
         {
           "version": "2.10.0",
           "buildVersion": "4",
+          "date": "2026-06-11T23:30:54Z",
+          "localizedDescription": "refactor(components, screens): 简化输入框配置并移除多余的品牌块边框  将两处自定义输入格式化器替换为Flutter内置的FilteringTextInputFormatter，同时统一格式化代码缩进。  ",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14849403,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.10.0",
+          "buildVersion": "4",
           "date": "2026-06-11T20:08:18Z",
           "localizedDescription": "feat: 升级至v2.10.0并添加对应更新日志  本次更新新增多项功能与优化： - 新增离线记账同步能力，断网时本地暂存记录联网后自动补传 - 新增极夜黑深色主题，OLED屏幕更省电且夜间护眼 - 新增金额一键隐藏功能，保护公共场合隐私 - 债务记录支持标注日期，往来账目更清晰 - 支持全屏查看头像并优化裁剪体验 - 优化全局配色、图标与动效，提升界面顺滑度  ",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
