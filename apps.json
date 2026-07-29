@@ -17,6 +17,15 @@
         {
           "version": "2.10.0",
           "buildVersion": "4",
+          "date": "2026-07-29T21:11:25Z",
+          "localizedDescription": "fix(sync): 修复双端数据同步异常，补全 updated_at 时间戳与 Realtime 监听  ",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14872414,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.10.0",
+          "buildVersion": "4",
           "date": "2026-06-11T23:30:54Z",
           "localizedDescription": "refactor(components, screens): 简化输入框配置并移除多余的品牌块边框  将两处自定义输入格式化器替换为Flutter内置的FilteringTextInputFormatter，同时统一格式化代码缩进。  ",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
