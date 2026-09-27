@@ -17,6 +17,15 @@
         {
           "version": "2.10.0",
           "buildVersion": "4",
+          "date": "2026-09-27T08:57:30Z",
+          "localizedDescription": "feat(category): 台费分类改为运行时解析，空分类统一显示「未分类」  - 台费默认分类改为运行时解析（system_role → 该类型第一个分类），   删除写死的 _kIncomeCategory / _kExpenseCategory 分类名常量 - Category 模型新增 systemRole，与服务端独占管理的系统角色对齐 - 快捷记账提交前解析分类，解析不到可用分类时提示并拦下，不再写孤儿分类 - 空分类统一显示「未分类」：记录行、统计�",
+          "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
+          "size": 14999976,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.10.0",
+          "buildVersion": "4",
           "date": "2026-07-30T08:41:55Z",
           "localizedDescription": "feat(share): 分享海报及文本摘要包含所有债务记录（包含已还清/结余为0的债务）  ",
           "downloadURL": "https://github.com/Black17999/e7-app/releases/latest/download/ios_unsigned.ipa",
